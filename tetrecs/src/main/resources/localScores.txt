@@ -1,0 +1,10 @@
+Jack=20000
+Bob=10000
+TesterB=10000
+Name=10000
+Meme=10000
+Duck=10000
+ThisIsAName=1630
+ugor=1530
+namae=1030
+Jack=1000
